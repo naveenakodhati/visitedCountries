@@ -1,0 +1,26 @@
+.image {
+  width: 300px;
+  height: 250px;
+}
+.visited-list {
+  margin: 15px;
+  margin-left: 0px;
+  background-color: #1f1f2f;
+  border-radius: 9px;
+}
+.div-wraper {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.remove-btn {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 4px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+}
